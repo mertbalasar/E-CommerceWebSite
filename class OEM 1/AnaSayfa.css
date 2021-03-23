@@ -1,0 +1,101 @@
+﻿body {
+    background-image : url("arkaplan.jpg");
+}
+
+.baslik {
+    background-color : indianred;
+    margin-left : 60px;
+    margin-right : 60px;
+    margin-bottom : 30px;
+    height : 90px;
+}
+
+.divlogo {
+    height : 90px;
+    width : 300px;
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+}
+
+.menuler {
+    background-color : indianred;
+    width : 200px;
+    height : 600px;
+}
+
+#menuelemanlar {
+    margin-bottom : 2px;
+    width : 200px;
+    cursor : pointer;
+    font-family : Calibri;
+    font-size : 24px;
+    color : #FFFFFF;
+    background-image : url('arkaplan.jpg');
+    border-style : none;
+    border-width : 0px;
+}
+
+.menuelements {
+    margin-bottom: 2px;
+    width: 200px;
+    cursor: pointer;
+    font-family: Calibri;
+    font-size: 24px;
+    color: #FFFFFF;
+    background-image: url('arkaplan.jpg');
+    border-style: none;
+    border-width: 0px;
+}
+
+.kategori {
+    float : left;
+    margin-bottom : 1px;
+    margin-left : 40px;
+    width: 160px;
+    cursor: pointer;
+    font-family: Calibri;
+    font-size: 18px;
+    color: #FFFFFF;
+    background-image: url('arkaplan.jpg');
+    border-style: none;
+    border-width: 0px;
+}
+
+#altkategoriler {
+
+}
+
+.filtrea {
+    float : left;
+    font-family : Calibri;
+    font-size : 16px;
+    margin-left : 5px;
+    margin-right : 5px;
+    margin-top : 15px;
+}
+
+.filtred {
+    float: left;
+    font-family: Calibri;
+    font-size: 16px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 12px;
+}
+
+.speicalpanel {
+    background-color : white;
+    width : 97%;
+    height : 120px;
+    float : left;
+    margin : 5px;
+}
+
+#bizeulasclk{
+
+}
+
+#sepetclk {
+
+}
